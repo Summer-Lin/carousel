@@ -1,6 +1,6 @@
 ##### 动态图片
 
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/Summer-Lin/carousel/blob/master/images-images/GIF.gif)
 
 ##### CSS代码
 
